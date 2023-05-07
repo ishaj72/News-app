@@ -1,4 +1,4 @@
-#NEWS APPLICATION
+# NEWS APPLICATION
 
 A new Flutter application.
 
