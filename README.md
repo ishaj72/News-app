@@ -1,16 +1,19 @@
-# experiments
+#NEWS APPLICATION
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a Flutter mobile application that displays news articles from various sources. Users can browse and search for articles, save them for later reading, and receive push notifications for breaking news stories.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+Browse and search news articles from various sources
+News on different topics 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technology used
+Flutter for building the mobile app
+NewsAPI for fetching news articles
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
